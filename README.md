@@ -1,163 +1,223 @@
-For placements and recruiters, a profile should look clean, modern, and project-focused rather than overloaded with badges. Here's a more professional and unique GitHub profile README for **Vaish07-02**:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi+G+Nayak;Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Java+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 
-````md
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Hi+There+%F0%9F%91%8B+I'm+Vaishnavi+G+Nayak;AI+%26+Data+Science+Student;Full+Stack+Java+Developer;Building+AI-Powered+Solutions" alt="Typing SVG" />
+<h1 align="center">👩‍💻 Vaishnavi G Nayak</h1>
 
-# 👩‍💻 About Me
+<h3 align="center">
+Full Stack Java Developer • AI & Data Science Student • Problem Solver
+</h3>
 
-I am an enthusiastic **Artificial Intelligence & Data Science undergraduate** passionate about building intelligent and scalable software solutions.
+<p align="center">
 
-Currently pursuing **Full Stack Java Development with AI**, where I am strengthening my skills in software engineering, web development, databases, and machine learning.
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
-I enjoy transforming ideas into practical applications and continuously learning emerging technologies.
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=6C63FF"/>
 
----
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=6C63FF"/>
 
-## 🚀 Current Focus
-
-🔹 Full Stack Java Development
-
-🔹 React.js & Modern Frontend Development
-
-🔹 Spring Boot & REST APIs
-
-🔹 Data Structures & Algorithms
-
-🔹 Artificial Intelligence & Machine Learning
-
-🔹 Open Source & GitHub Collaboration
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌸 About Me
 
-### Programming Languages
+✨ Artificial Intelligence & Data Science undergraduate passionate about developing intelligent and scalable software.
+
+💻 Currently learning **Full Stack Java Development with AI**.
+
+🚀 Interested in
+
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Problem Solving
+- Open Source
+
+🌱 Every project is an opportunity to learn something new.
+
+---
+
+# 🚀 Current Learning
+
 ```text
-Java       ████████████████████ 90%
-Python     ██████████████████   85%
-JavaScript ████████████████     80%
-SQL        ████████████████     80%
-````
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-
-### Backend
-
-* Java
-* Spring Boot
-* Flask
-
-### Database
-
-* MySQL
-* Oracle SQL
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* Maven
-* VS Code
-* IntelliJ IDEA
-* Postman
-
----
-
-# 🌟 Featured Projects
-
-## 🤖 AI Driven Fake Review Detection & Price Negotiating System
-
-An intelligent platform that:
-
-✔ Detects fake product reviews using Machine Learning
-
-✔ Provides confidence-based review classification
-
-✔ Scrapes product reviews automatically
-
-✔ Includes an AI-powered price negotiation chatbot
-
-✔ Compares prices across e-commerce platforms
-
-**Tech Used:** Python, Flask, React, Machine Learning, MongoDB
-
----
-
-## 🏠 Rental Property Management using Blockchain
-
-A decentralized property management solution leveraging blockchain technology for transparency and security.
-
-**Tech Used:** Solidity, Blockchain, Remix IDE
-
----
-
-## 🌱 Solar Powered Water Irrigation System
-
-An automated irrigation system powered by renewable solar energy for sustainable agriculture.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaish07-02&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish07-02&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish07-02&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* Crack a Software Developer Role
-* Master Spring Boot & React Ecosystem
-* Solve 500+ DSA Problems
-* Contribute to Open Source Projects
-* Build Production-Level AI Applications
-
----
-
-# 🤝 Let's Connect
-
-📧 Email: [nayakvaishnavi2004@gmail.com](mailto:nayakvaishnavi2004@gmail.com)
-
-💼 LinkedIn: Your LinkedIn Profile
-
-🌐 Portfolio: Coming Soon
-
----
-
-<div align="center">
-
-### "Learning Never Exhausts the Mind."
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-</div>
+✔ Java & Advanced OOP
+✔ Spring Boot
+✔ React.js
+✔ REST APIs
+✔ SQL & Database Design
+✔ Data Structures & Algorithms
+✔ Artificial Intelligence
+✔ Machine Learning
 ```
 
-### To make it truly stand out:
+---
 
-Add these sections later:
+# 💻 Tech Stack
 
-* 🏆 Certifications
-* 📚 Currently Learning
-* 💼 Internship Experience (KodNest)
-* 📝 Research Publications
-* 🎖️ Achievements & Awards
-* 📊 Contribution Graph Snake Animation
+## Programming Languages
 
-The most impressive recruiter-friendly structure is:
+<p align="left">
 
-**Hero Banner → About Me → Tech Stack → Featured Projects → GitHub Stats → Achievements → Contact**
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
 
-This looks much more like a software engineer's profile than a typical student README.
+</p>
+
+```
+Java          ███████████████████████  90%
+
+Python        █████████████████████    85%
+
+JavaScript    ██████████████████       80%
+
+SQL           ██████████████████       80%
+
+HTML/CSS      ██████████████████       85%
+```
+
+---
+
+## Frameworks & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,spring,mysql,git,github,vscode,eclipse,maven"/>
+
+</p>
+
+---
+
+## Currently Exploring
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postman,docker"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Driven Fake Review Detection System
+
+✔ Machine Learning
+
+✔ Fake Review Classification
+
+✔ Sentiment Analysis
+
+✔ React + Flask
+
+---
+
+### 💬 AI Price Negotiation Chatbot
+
+✔ Product Recommendation
+
+✔ Price Negotiation
+
+✔ Intelligent Chatbot
+
+✔ MongoDB
+
+---
+
+### 🌱 Smart Water Irrigation System
+
+✔ Renewable Energy
+
+✔ IoT
+
+✔ Automation
+
+---
+
+### 🏠 Blockchain Rental Property System
+
+✔ Blockchain
+
+✔ Smart Contracts
+
+✔ Ethereum
+
+---
+
+# 🎯 Coding Profiles
+
+<p>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Success isn't about being the smartest person in the room. It's about never stopping the learning process."**
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+
+</p>
