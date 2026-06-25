@@ -1,56 +1,86 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi+G+Nayak;Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Java+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New+%F0%9F%9A%80" />
-</p>
+<div align="center">
 
-<h1 align="center">👩‍💻 Vaishnavi G Nayak</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Vaishnavi+G+Nayak;Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Java+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New+🚀" />
 
-<h3 align="center">
-Full Stack Java Developer • AI & Data Science Student • Problem Solver
-</h3>
+# 👩‍💻 Vaishnavi G Nayak
 
-<p align="center">
+### 💙 AI & Data Science Student | ☕ Full Stack Java Developer | 🚀 AI Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=6C63FF"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=7F5AF0"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=6C63FF"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=7F5AF0"/>
+</a>
 
-</p>
+</div>
 
 ---
 
 # 🌸 About Me
 
-✨ Artificial Intelligence & Data Science undergraduate passionate about developing intelligent and scalable software.
+🎓 Final-year **Artificial Intelligence & Data Science** undergraduate passionate about solving real-world problems through technology.
 
-💻 Currently learning **Full Stack Java Development with AI**.
+💻 Currently pursuing **Full Stack Java Development with AI**, where I'm strengthening my expertise in:
 
-🚀 Interested in
+- ☕ Java
+- ⚛ React.js
+- 🌱 Spring Boot
+- 🗄 SQL
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
 
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- Problem Solving
-- Open Source
-
-🌱 Every project is an opportunity to learn something new.
+I enjoy transforming innovative ideas into practical applications and continuously learning new technologies.
 
 ---
 
-# 🚀 Current Learning
+# 🎯 Current Focus
 
-```text
-✔ Java & Advanced OOP
-✔ Spring Boot
-✔ React.js
-✔ REST APIs
-✔ SQL & Database Design
-✔ Data Structures & Algorithms
-✔ Artificial Intelligence
-✔ Machine Learning
-```
+- 🚀 Full Stack Java Development
+- ⚛ React.js
+- 🌱 Spring Boot
+- 📡 REST APIs
+- 🗄 MySQL
+- 📚 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- ☁ Cloud Computing
+
+---
+
+# 🎓 Education
+
+### Bachelor of Engineering
+
+**Artificial Intelligence & Data Science**
+
+📍 SDM Institute of Technology, Ujire
+
+Expected Graduation: **2026**
+
+---
+
+# 💼 Internship
+
+## Full Stack Java Development with AI
+
+🏢 KodNest Technologies Pvt. Ltd.
+
+### Technologies
+
+- Java
+- Spring Boot
+- React
+- SQL
+- Maven
+- Git
+- GitHub
+- REST APIs
+
+Currently gaining hands-on experience in building enterprise-level applications following industry best practices.
 
 ---
 
@@ -58,47 +88,147 @@ Full Stack Java Developer • AI & Data Science Student • Problem Solver
 
 ## Programming Languages
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
-
 </p>
 
-```
-Java          ███████████████████████  90%
-
-Python        █████████████████████    85%
-
-JavaScript    ██████████████████       80%
-
-SQL           ██████████████████       80%
-
-HTML/CSS      ██████████████████       85%
+```text
+Java          ███████████████████████ 90%
+Python        █████████████████████  85%
+JavaScript    ███████████████████    80%
+SQL           ███████████████████    80%
+HTML/CSS      ████████████████████   85%
 ```
 
 ---
 
-## Frameworks & Technologies
+## Frameworks & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,spring,mysql,git,github,vscode,eclipse,maven"/>
-
+<img src="https://skillicons.dev/icons?i=react,spring,mysql,git,github,vscode,eclipse,maven,postman"/>
 </p>
 
 ---
 
-## Currently Exploring
+## Currently Learning
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postman,docker"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,docker,aws"/>
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+# 🚀 Featured Projects
+
+## 🤖 AI Driven Fake Review Detection System
+
+✔ Machine Learning
+
+✔ Sentiment Analysis
+
+✔ Fake Review Classification
+
+✔ React + Flask
+
+✔ Data Visualization
+
+---
+
+## 💬 AI Price Negotiation Chatbot
+
+✔ AI Chatbot
+
+✔ Product Recommendation
+
+✔ Smart Negotiation
+
+✔ MongoDB
+
+✔ REST APIs
+
+---
+
+## 🏠 Blockchain Rental Property System
+
+✔ Solidity
+
+✔ Ethereum
+
+✔ Smart Contracts
+
+✔ Blockchain Technology
+
+---
+
+## 🌱 Smart Solar Water Irrigation System
+
+✔ Renewable Energy
+
+✔ IoT
+
+✔ Automation
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Successfully completed Full Stack Java Internship Training
+- 🚀 Developed AI-powered applications using Machine Learning
+- 💬 Built an AI Chatbot with intelligent price negotiation
+- 🌱 Developed Smart Irrigation System
+- 🏠 Created Blockchain Rental Property Management System
+- 📚 Consistently improving DSA and Problem Solving skills
+- 🌍 Passionate about Open Source and Continuous Learning
+
+---
+
+# 📜 Certifications
+
+| Certification | Status |
+|---------------|--------|
+| Full Stack Java Development with AI | ✅ Completed |
+| Java Programming | ✅ Completed |
+| SQL & Database Management | ✅ Completed |
+| HTML & CSS | ✅ Completed |
+| JavaScript | ✅ Completed |
+| React.js | 🚀 In Progress |
+| Spring Boot | 🚀 In Progress |
+| Machine Learning | 🚀 In Progress |
+
+---
+
+# 📂 Certificate Gallery
+
+> 📌 Upload your certificates in a folder named **certificates** inside this repository.
+
+```text
+📂 certificates
+ ├── java.png
+ ├── sql.png
+ ├── internship.png
+ ├── react.png
+ ├── ai.png
+```
+
+Display them like this:
+
+```html
+<p align="center">
+
+<img src="./certificates/java.png" width="280"/>
+
+<img src="./certificates/sql.png" width="280"/>
+
+<img src="./certificates/internship.png" width="280"/>
+
+<img src="./certificates/react.png" width="280"/>
+
+</p>
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -120,81 +250,26 @@ HTML/CSS      ██████████████████       85%
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 2026 Goals
+
+- ✅ Master Spring Boot
+- ✅ Build Full Stack Enterprise Projects
+- ✅ Contribute to Open Source
+- ✅ Learn Cloud Computing (AWS)
+- ✅ Improve DSA & Competitive Programming
+- ✅ Crack a Software Developer Role
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Driven Fake Review Detection System
-
-✔ Machine Learning
-
-✔ Fake Review Classification
-
-✔ Sentiment Analysis
-
-✔ React + Flask
-
----
-
-### 💬 AI Price Negotiation Chatbot
-
-✔ Product Recommendation
-
-✔ Price Negotiation
-
-✔ Intelligent Chatbot
-
-✔ MongoDB
-
----
-
-### 🌱 Smart Water Irrigation System
-
-✔ Renewable Energy
-
-✔ IoT
-
-✔ Automation
-
----
-
-### 🏠 Blockchain Rental Property System
-
-✔ Blockchain
-
-✔ Smart Contracts
-
-✔ Ethereum
-
----
-
-# 🎯 Coding Profiles
-
-<p>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -206,18 +281,18 @@ HTML/CSS      ██████████████████       85%
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
-> **"Success isn't about being the smartest person in the room. It's about never stopping the learning process."**
+> **"The future belongs to those who never stop learning, building, and improving."** 🚀
 
 ---
 
-<p align="center">
+<div align="center">
 
 ### ⭐ Thank you for visiting my profile!
 
-If you like my work, consider ⭐ starring my repositories.
+If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
 
-</p>
+</div>
