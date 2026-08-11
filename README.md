@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vaishnavi+G+Nayak;AI+%26+Data+Science+Student;Full+Stack+Java+Developer;UI%2FUX+Designer;Building+AI-Powered+Applications" />
 
-# 👩‍💻 Vaishnavi G Nayak
+# Vaishnavi G Nayak
 
-### 💙 AI & Data Science Student | ☕ Full Stack Java Developer | 🎨 UI/UX Designer
+### AI & Data Science Student | Full Stack Java Developer |  UI/UX Designer
 
 <img src="https://komarev.com/ghpvc/?username=Vaish07-02&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 🌸 About Me
+# About Me
 
 🎓 Final-year **Artificial Intelligence & Data Science** student at **SDM Institute of Technology, Ujire**
 
