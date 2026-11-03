@@ -12,10 +12,10 @@ I enjoy developing REST APIs, integrating frontend and backend systems, working 
 
 ## 🚀 About Me
 
-* 🎓 Graduated in Artificial Intelligence and Data Science from SDM Institute of Technology, Ujire.
-* 💻 Currently working as a Full Stack Java Development with AI Intern at KodNest Technologies.
+* 🎓 B.E. in Artificial Intelligence and Data Science – SDM Institute of Technology, Ujire.
+* 💻 Full Stack Java Development with AI Intern at KodNest Technologies.
 * 🌐 Interested in Full Stack Engineering and Backend Development.
-* 🔧 Hands-on experience with Java, Spring Boot, React.js, Python, Flask, and MySQL.
+* 🔧 Project experience with Java, Spring Boot, React.js, Python, Flask, and MySQL.
 * 🗄️ Interested in REST API development, database design, and application integration.
 * 🎨 Explore UI/UX design and interface development using Figma.
 * 📚 Continuously learning modern technologies and improving my software engineering skills.
@@ -24,32 +24,32 @@ I enjoy developing REST APIs, integrating frontend and backend systems, working 
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+**Programming Languages**
 
 * Java
 * Python
 * JavaScript
 
-### Frontend Development
+**Frontend Development**
 
 * HTML5
 * CSS3
 * React.js
 
-### Backend Development
+**Backend Development**
 
 * Java
 * Spring Boot
 * Flask
 * REST API Development
 
-### Databases
+**Databases**
 
 * MySQL
 * MongoDB
 * SQLite
 
-### Tools & Technologies
+**Tools & Technologies**
 
 * Git & GitHub
 * Maven
@@ -58,11 +58,11 @@ I enjoy developing REST APIs, integrating frontend and backend systems, working 
 * VS Code
 * IntelliJ IDEA
 
-### Design Tools
+**Design Tools**
 
 * Figma
 
-### Core Engineering Skills
+**Core Engineering Concepts**
 
 * Object-Oriented Programming
 * REST API Development
@@ -88,11 +88,8 @@ I enjoy developing REST APIs, integrating frontend and backend systems, working 
 * Implemented shopping cart functionality.
 * Integrated JWT-based authentication.
 * Used MySQL for persistent data storage.
-* Worked on connecting frontend components with backend services.
 
 🔗 **[GitHub Repository – SalesSavvy](https://github.com/Vaish07-02/SalesSavvy-Ecommerce)**
-
-🌐 **[Live Application](https://salessavvy-ecommerce.vercel.app)**
 
 ---
 
@@ -133,6 +130,8 @@ I enjoy developing REST APIs, integrating frontend and backend systems, working 
 * Implemented interactive web elements using JavaScript.
 * Practised DOM manipulation and responsive frontend development.
 
+🔗 **[View Chair Store Project on LinkedIn](https://lnkd.in/p/dJ_3UxPS)**
+
 ---
 
 ### 5. Solar Irrigation System
@@ -151,15 +150,13 @@ I enjoy developing REST APIs, integrating frontend and backend systems, working 
 
 I enjoy exploring UI/UX design and creating clean, intuitive, and user-friendly interfaces using Figma.
 
-### Selected Design Projects
-
-| Project               | Design                                                                                     |
-| --------------------- | ------------------------------------------------------------------------------------------ |
-| Portfolio Design      | [View on Figma](https://www.figma.com/design/woojGPvyewSbCSd59dx4xa/Portfolio-Design)      |
-| FinTrust              | [View on Figma](https://www.figma.com/design/tOdcfKTwMaUWryQyI4R1oj/FinTrust)              |
-| Dashboard Design      | [View on Figma](https://www.figma.com/design/wG8qBB4aTAYnb9Zo5ViF4A/Dashboard)             |
-| E-Commerce Website    | [View on Figma](https://www.figma.com/design/3hfJnBPuAif1bjiuP47e8W/E-Commerce-Website)    |
-| Travel Agency Website | [View on Figma](https://www.figma.com/design/UcERPlhQsF2OHRQc2t3bOR/Travel-Agency-Website) |
+| Design Project        | Figma Link                                                                               |
+| --------------------- | ---------------------------------------------------------------------------------------- |
+| Portfolio Design      | [View Design](https://www.figma.com/design/woojGPvyewSbCSd59dx4xa/Portfolio-Design)      |
+| FinTrust              | [View Design](https://www.figma.com/design/tOdcfKTwMaUWryQyI4R1oj/FinTrust)              |
+| Dashboard Design      | [View Design](https://www.figma.com/design/wG8qBB4aTAYnb9Zo5ViF4A/Dashboard)             |
+| E-Commerce Website    | [View Design](https://www.figma.com/design/3hfJnBPuAif1bjiuP47e8W/E-Commerce-Website)    |
+| Travel Agency Website | [View Design](https://www.figma.com/design/UcERPlhQsF2OHRQc2t3bOR/Travel-Agency-Website) |
 
 **Design Interests:** UI/UX Design, Wireframing, Dashboard Design, Web Design, and User-Friendly Interfaces.
 
@@ -199,11 +196,13 @@ December 2024 – January 2025
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Professional Development
 
-* NPTEL – Add your exact certificate title.
-* Infosys Springboard – Add your exact certificate title.
-* Google Cloud – Add your exact certificate title.
+* **NPTEL** – Python for Data Science
+* **Infosys Springboard** – Introduction to Java and Data Structures & Algorithms
+* **Google Cloud** – Project Fundamentals for DevOps
+* **Hackathon Certificate** – Technical Hackathon Participation
+
 
 ---
 
@@ -225,8 +224,7 @@ December 2024 – January 2025
 **Bachelor of Engineering – Artificial Intelligence and Data Science**
 
 SDM Institute of Technology, Ujire
-2022 – 2026
-CGPA: 8.12
+2022 – 2026 | CGPA: 8.12
 
 ---
 
