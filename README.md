@@ -1,125 +1,142 @@
-<div align="center">
+# Hi, I'm Vaishnavi Gopal Nayak 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vaishnavi+G+Nayak;AI+%26+Data+Science+Student;Full+Stack+Java+Developer;UI%2FUX+Designer;Building+AI-Powered+Applications" />
+### Full Stack Developer | Java Developer | AI & Data Science Graduate
 
-# Vaishnavi G Nayak
+I'm a 2026 Artificial Intelligence and Data Science graduate passionate about building practical software applications, developing backend systems and exploring AI-powered solutions.
 
-### AI & Data Science Student | Full Stack Java Developer |  UI/UX Designer
-
-<img src="https://komarev.com/ghpvc/?username=Vaish07-02&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
-
-<a href="https://github.com/Vaish07-02">
-<img src="https://img.shields.io/github/followers/Vaish07-02?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+* 🎓 B.E. in Artificial Intelligence & Data Science
+* 💻 Interested in Full Stack Development and Backend Engineering
+* 🌱 Currently strengthening Java, Spring Boot, React and SQL
+* 🔭 Building real-world projects and improving my development skills
+* 🎯 Interested in Software Engineering opportunities
 
 ---
 
-# About Me
+## 🛠️ Technical Skills
 
-🎓 Final-year **Artificial Intelligence & Data Science** student at **SDM Institute of Technology, Ujire**
+**Programming:** Java, Python, JavaScript, SQL
 
-💼 Full Stack Java Development with AI Intern at **KodNest Technologies**
+**Frontend:** HTML5, CSS3, JavaScript, React.js
 
-💡 Passionate about **Java, React, Spring Boot, AI, Machine Learning, and UI/UX Design**
+**Backend:** Java, Spring Boot, Spring MVC, REST APIs, Flask
 
----
+**Database:** MySQL, MongoDB, SQLite
 
-# 💻 Tech Stack
+**Tools:** Git, GitHub, Maven, Postman, VS Code, MySQL Workbench
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,spring,mysql,mongodb,git,github,vscode,eclipse,maven,postman,figma"/>
-</p>
+**Other:** Object-Oriented Programming, Data Structures, Machine Learning, API Integration
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-🤖 **AI Driven Fake Review Detection System**
+### 1. SalesSavvy – Full Stack E-Commerce Application
 
-- Machine Learning
-- Flask
-- React
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, JWT
 
-💬 **AI Price Negotiation Chatbot**
+* Developed a full-stack e-commerce application.
+* Implemented product catalogues and category filtering.
+* Developed shopping cart functionality.
+* Integrated REST APIs between frontend and backend.
+* Implemented authentication using JWT.
 
-- React
-- MongoDB
-- REST APIs
+### 2. AI-Driven Review Monitoring & Price Negotiating System
 
-🏠 **Blockchain Rental Property System**
+**Tech Stack:** Python, Flask, React.js, Machine Learning, Playwright
 
-🌱 **Smart Solar Water Irrigation System**
+* Developed a system to identify fake and genuine product reviews.
+* Integrated web scraping to collect product reviews.
+* Applied machine learning algorithms for review classification.
+* Built a price negotiation chatbot for e-commerce platforms.
 
----
+### 3. Personal Expense Tracker
 
-# 🎨 UI/UX Design Portfolio
+**Tech Stack:** Flutter, Dart, SQLite
 
-| Project | Link |
-|---------|------|
-| 💼 Portfolio Design | [View](https://www.figma.com/design/woojGPvyewSbCSd59dx4xa/Portfolio-Design) |
-| 💳 FinTrust | [View](https://www.figma.com/design/tOdcfKTwMaUWryQyI4R1oj/FinTrust) |
-| 📊 Dashboard | [View](https://www.figma.com/design/wG8qBB4aTAYnb9Zo5ViF4A/Dashboard) |
-| 🛍️ E-Commerce Website | [View](https://www.figma.com/design/3hfJnBPuAif1bjiuP47e8W/E-Commerce-Website) |
-| ✈️ Travel Website | [View](https://www.figma.com/design/UcERPlhQsF2OHRQc2t3bOR/Travel-Agency-Website) |
+* Developed an application to track personal expenses.
+* Implemented local database storage.
+* Organized expense records for easier tracking.
 
-➡️ **More UI/UX Projects available on my Figma portfolio.**
+### 4. Chair Store – E-Commerce Website
 
----
+**Tech Stack:** HTML, CSS, JavaScript
 
-# 📊 GitHub Stats
+* Developed a responsive e-commerce website.
+* Implemented product display and frontend interactions.
 
-<p align="center">
+### 5. Blockchain-Based Rental Property Management System
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaish07-02&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Tech Stack:** Blockchain Technologies
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish07-02&layout=compact&theme=tokyonight&hide_border=true"/>
+* Explored blockchain-based property rental management.
+* Focused on transparency and secure rental transactions.
 
-</p>
+### 6. Solar-Powered Irrigation System
 
-<p align="center">
+**Tech Stack:** IoT, Solar Technology
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish07-02&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Vaish07-02">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vaishnavinayak07">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:nayakvaishnavi2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+* Developed a project focused on solar-powered agricultural irrigation.
+* Explored technology-driven solutions for efficient water management.
 
 ---
 
-> 💜 **"The future belongs to those who never stop learning, building, and improving."**
+## 🏆 Achievements
 
-<div align="center">
+* 🥉 Secured 3rd Prize in Project Exhibition.
+* 🏅 Received Consolation Prize at Eureka.
+* 💡 Participated in technical hackathons.
+* 🚀 Participated in Mini Anveshana and IdeaStorm.
 
-### ⭐ Thanks for visiting my profile!
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
+## 📜 Certifications
 
-</div>
+* NPTEL Certification
+* Infosys Springboard Courses
+* Google Cloud Learning
+* Technical and Programming Certifications
+
+---
+
+## 💼 Experience
+
+**KodNest Technologies – Full Stack Java Development with AI Intern**
+
+* Java programming and OOP concepts.
+* SQL and database management.
+* Spring Boot and backend development.
+* REST API development and debugging.
+
+**InternPe – Web Development Intern**
+
+* HTML, CSS and JavaScript.
+* Frontend development.
+* DOM manipulation and CRUD operations.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaish07-02\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish07-02\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vaish07-02\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaish07-02\&theme=tokyo-night)
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: Vaishnavi Nayak
+* GitHub: Vaish07-02
+* Email: [4su22ad058@sdmit.in](mailto:4su22ad058@sdmit.in)
+
+---
+
+⭐ *Always learning, building and improving.*
